@@ -1,0 +1,15 @@
+{
+  "input_dataset": "/Users/shine/lottery_research/data/bilibili视频数据集_20260221_105645.jsonl",
+  "run_dirs": [
+    "/Users/shine/Downloads/bilibili-watcher/bilibili待转录URL_20260221_105645_20260221-105657",
+    "/Users/shine/Downloads/bilibili-watcher/bilibili待转录URL_retry_20260221_130707_20260221-130821"
+  ],
+  "dataset_rows": 348,
+  "unique_ids_in_transcripts": 346,
+  "covered_rows_ok": 346,
+  "error_rows": 2,
+  "empty_rows": 0,
+  "missing_rows": 0,
+  "output_jsonl": "/Users/shine/lottery_research/data/bilibili视频数据集_转录覆盖_最终_20260221_140821.jsonl",
+  "output_csv": "/Users/shine/lottery_research/data/bilibili视频数据集_转录覆盖_最终_20260221_140821.csv"
+}
